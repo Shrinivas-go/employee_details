@@ -1,5 +1,5 @@
 def employee_details(name, age):
-  result (
+  result = (
     f"Name: {name}\n"
     f" Age: {age}\n"
   )

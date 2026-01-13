@@ -1,4 +1,4 @@
-import employee_details frome employee
+import employee_details from employee
 def test_employee_details():
   expected = (
     "Name: Shrinivas\n"
